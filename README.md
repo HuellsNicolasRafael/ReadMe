@@ -63,7 +63,7 @@ Durante el desarrollo:
 
 ---
 
-## Estructura del proyecto
+## 🗂 Estructura del proyecto
 
 ```
 src/
@@ -163,10 +163,10 @@ http://localhost:5173
 
 ## Integrantes del grupo
 
-| Nombre completo            | Correo Electronico        |
-| -------------------------- | ------------------------- |
-| Figueroa Maximiliano Ruben | @huellsnicolasr@gmail.com |
-| Huells Nicolás Rafael      | @marianof0101@gmail.com   |
+| Nombre completo            | Correo Electronico       |
+| -------------------------- | ------------------------ |
+| Figueroa Maximiliano Ruben | huellsnicolasr@gmail.com |
+| Huells Nicolás Rafael      | marianof0101@gmail.com   |
 
 ---
 
