@@ -71,22 +71,25 @@ Durante el desarrollo:
 
 ```
 src/
-├── assets/
-├── features/
-│   ├── inicio/
-│   │   └── Inicio.jsx
+├── app/                        # Configuración de Redux
+│   └── store.js
+├── assets/                    # Imágenes, íconos, logos
+├── components/                # Componentes reutilizables
+│   ├── FavoritoComponent.jsx
+│   ├── Footer.jsx
+│   ├── NavBar.jsx
+│   └── ProductoComponent.jsx
+├── features/                  # Slices de Redux
 │   ├── favoritos/
-│   │   ├── Favoritos.jsx
-│   │   ├── FavoritoComponent.jsx
 │   │   └── favoritosSlice.js
-│   ├── detalle/
-│   │   └── Detalle.jsx
-│   └── formulario/
+│   └── product/
 │       └── productosSlice.js
-├── App.jsx
-├── main.jsx
-└── store.js
-```
+├── pages/                     # Vistas principales del proyecto
+│   ├── Detalle.jsx
+│   ├── Favoritos.jsx
+│   └── Inicio.jsx
+├── App.jsx                    # Configuración de rutas principales
+├── main.jsx                   # Punto de entrada
 
 ---
 
@@ -141,26 +144,34 @@ src/
 1. Clonar el repositorio
 
 ```
+
 git clone https://github.com/Maxifigueroa20/pv-tp-integrador-grupo10.git
 cd pv-tp-integrador-grupo10
+
 ```
 
 2. Instalar dependencias
 
 ```
+
 npm install
+
 ```
 
 3. Ejecutar en desarrollo
 
 ```
+
 npm run dev
+
 ```
 
 4. Acceder a la app desde el navegador
 
 ```
+
 http://localhost:5173
+
 ```
 
 ---
@@ -179,3 +190,4 @@ http://localhost:5173
 Este proyecto fue realizado con fines académicos como evaluación final integradora. Se trabajó respetando una arquitectura escalable, utilizando herramientas actuales y con una división clara de tareas entre los integrantes. La documentación, el uso de versiones y la modularización reflejan un enfoque profesional en el desarrollo frontend.
 
 ---
+```
