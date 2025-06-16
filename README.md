@@ -13,21 +13,29 @@ Modalidad: Trabajo grupal – Integrador Final
 
 ## Índice
 
-- Objetivo del proyecto
-- Tecnologías utilizadas
-- Estructura del proyecto
-- Funcionalidades
-- Detalle técnico por módulo
-- Manual de pruebas
-- Convenciones de código
-- Instalación y ejecución local
-- Integrantes del grupo
-- Captura de pantalla (ejemplo)
-- Notas finales
+- 📌 Objetivo del proyecto
+
+- ⚙️ Tecnologías utilizadas
+
+- 🗂 Estructura del proyecto
+
+- 🧩 Funcionalidades
+
+- 🔧 Detalle técnico por módulo
+
+- 🧪 Manual de pruebas
+
+- 🧹 Convenciones de código
+
+- 🖥 Instalación y ejecución local
+
+- 👥 Integrantes del grupo
+
+- 📝 Notas finales
 
 ---
 
-## Objetivo del proyecto
+## 📌 Objetivo del proyecto
 
 El objetivo de este trabajo práctico fue desarrollar una aplicación web tipo SPA (Single Page Application) utilizando React, aplicando en conjunto los conocimientos aprendidos durante la cursada de Programación Visual.
 
@@ -47,7 +55,7 @@ Durante el desarrollo:
 
 ---
 
-## Tecnologías utilizadas
+## ⚙️ Tecnologías utilizadas
 
 - React (componentes funcionales y hooks como useEffect, useState, useParams)
 
@@ -86,7 +94,7 @@ src/
 
 ---
 
-## Funcionalidades
+## 🧩 Funcionalidades
 
 - Página de inicio con cards de productos obtenidos desde una API externa.
 - Visualización de imagen, nombre, precio, descripción y categoría.
@@ -98,7 +106,7 @@ src/
 
 ---
 
-## Detalle técnico por módulo
+## 🔧 Detalle técnico por módulo
 
 | Módulo     | Descripción                                                                                               |
 | ---------- | --------------------------------------------------------------------------------------------------------- |
@@ -109,7 +117,7 @@ src/
 
 ---
 
-## Manual de pruebas
+## 🧪 Manual de pruebas
 
 | Componente | Prueba esperada                        | Método                         |
 | ---------- | -------------------------------------- | ------------------------------ |
@@ -121,7 +129,7 @@ src/
 
 ---
 
-## Convenciones de código
+## 🧹 Convenciones de código
 
 - Componentes en PascalCase.
 - Archivos de lógica en camelCase y terminados en .js.
@@ -132,7 +140,7 @@ src/
 
 ---
 
-## Instalación y ejecución local
+## 🖥 Instalación y ejecución local
 
 1. Clonar el repositorio
 
@@ -161,7 +169,7 @@ http://localhost:5173
 
 ---
 
-## Integrantes del grupo
+## 👥 Integrantes del grupo
 
 | Nombre completo            | Correo Electronico       |
 | -------------------------- | ------------------------ |
@@ -170,15 +178,7 @@ http://localhost:5173
 
 ---
 
-## Captura de pantalla
-
-Vista del componente Home con cards de productos:
-
-![Captura de pantalla del Home](https://via.placeholder.com/900x500.png?text=Vista+de+productos)
-
----
-
-## Notas finales
+## 📝 Notas finales
 
 Este proyecto fue realizado con fines académicos como evaluación final integradora. Se trabajó respetando una arquitectura escalable, utilizando herramientas actuales y con una división clara de tareas entre los integrantes. La documentación, el uso de versiones y la modularización reflejan un enfoque profesional en el desarrollo frontend.
 
