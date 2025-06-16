@@ -1,7 +1,3 @@
-Perfecto. A continuación te paso el README.md completamente en Markdown, sin emojis ni estilo de IA, con un tono más académico y sobrio, ideal para una entrega universitaria formal:
-
----
-
 # Trabajo Práctico Integrador – Programación Visual
 
 Carrera: Analista Programador Universitario
